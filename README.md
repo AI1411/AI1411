@@ -2,6 +2,8 @@
 
 [会社のHP](https://ai1411.github.io/ishii-system-site/)
 
+![](https://komarev.com/ghpvc/?username=AI1411)
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI1411&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=AI1411&theme=onedark&show_icons=ture" />
