@@ -33,22 +33,17 @@ Backend Engineer / Tech Lead — Go, TypeScript, Rust, Zig
 
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AI1411&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AI1411&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AI1411/AI1411/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AI1411/AI1411/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AI1411/AI1411/output/github-snake-dark.svg" />
-</picture>
-
 ## Current Projects
 
 🔧 **Zig CLI Toolkit** — 開発者向け軽量CLIツール群
-- `pp` — ポートモニタ
-- `dk` — Docker クリーンアップ
-- `vt` — システムリソースモニタ
-- `sz` — ディスクサイズ可視化
+- [pp](https://github.com/AI1411/portpeek) — ポートモニタ
+- [dk](https://github.com/AI1411/dkill) — Docker クリーンアップ
+- [vitals](https://github.com/AI1411/Vitals) — システムリソースモニタ
+- [sz](https://github.com/AI1411/sz) — ディスクサイズ可視化
