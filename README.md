@@ -47,3 +47,4 @@ Backend Engineer / Tech Lead — Go, TypeScript, Rust, Zig
 - [dk](https://github.com/AI1411/dkill) — Docker クリーンアップ
 - [vitals](https://github.com/AI1411/Vitals) — システムリソースモニタ
 - [sz](https://github.com/AI1411/sz) — ディスクサイズ可視化
+- [dbpilot](https://github.com/AI1411/dbpilot) - tuiでのデータベース操作
