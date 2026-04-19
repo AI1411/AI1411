@@ -49,3 +49,4 @@ Backend Engineer / Tech Lead — Go, TypeScript, Rust, Zig
 - [sz](https://github.com/AI1411/sz) — ディスクサイズ可視化
 - [dbpilot](https://github.com/AI1411/dbpilot) - tuiでのデータベース操作
 - [fastcsv](https://github.com/AI1411/fastcsv) - Rust製の高速csvビュアー
+- [quick_viewer](https://github.com/AI1411/quick_viewer) - Rust製のcsv, markdown, pdf等の高速ファイルビュアー
